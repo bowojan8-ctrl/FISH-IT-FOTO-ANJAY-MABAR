@@ -12,3 +12,17 @@ throne gausah di kotak katik lagi (nick udah kebaca + interval naik 2 menit > ti
 
 
 <img width="587" height="470" alt="image" src="https://github.com/user-attachments/assets/038e0de7-e096-4af1-9be4-9ce960c40391" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="420" height="420" alt="kerkewerkewer" src="https://github.com/user-attachments/assets/237691be-9486-4493-9924-575eabac600f" />

@@ -27,3 +27,8 @@ tinggal update ngilangin angka di nick aja ntar)
 
 
 <img width="420" height="420" alt="kerkewerkewer" src="https://github.com/user-attachments/assets/237691be-9486-4493-9924-575eabac600f" />
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bowojan8-ctrl&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="PROFILE VISIT" />
+</p>

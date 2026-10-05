@@ -8,7 +8,7 @@ Charybdis.png (kalo sesuai ama in game)
 
 
 
-throne gausah di kotak katik lagi (nick udah kebaca + interval naik 2 menit)
+throne gausah (nick udah kebaca + interval naik 2 menit)
 tinggal update ngilangin angka di nick aja ntar)
 
 

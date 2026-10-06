@@ -10,15 +10,26 @@ paling upload manual manual aja buat webhook asset
 <img width="1679" height="1049" alt="image" src="https://github.com/user-attachments/assets/2d047c53-af30-4da4-a500-8f8e658bf7d4" />
 
 
+—
+—
+—
+—
+—
 
+ikan udah auto update dari dex, tier 7-8 
+kecuali secret tier 6 masih pake lokal (photo udah auto proxy dari roblox
+
+—
+—
+—
+—
+—
 
 throne gausah (nick udah kebaca + interval naik 2 menit)
 tinggal update ngilangin angka di nick aja ntar)
 
 
 <img width="587" height="470" alt="image" src="https://github.com/user-attachments/assets/038e0de7-e096-4af1-9be4-9ce960c40391" />
-
-
 
 
 
